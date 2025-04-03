@@ -12,7 +12,7 @@
       "settings": {
         "clients": [
           {
-            "id": "798d1fa7-bb17-4428-9246-22c925ed4273"
+            "id": "1a928b64-234a-478e-b706-306c08562c09"
           }
         ],
          "decryption":"none"
@@ -20,7 +20,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-        "path": "/xin123"
+        "path": "/vle123"
         }
       }
     }
